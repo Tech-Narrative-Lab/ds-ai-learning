@@ -1,7 +1,7 @@
 # Introduction to Data Science Principles
 > Part 1 of the PRGS DS+AI Sequence
 
-### Prerequisites
+## Prerequisites
 - Math skills: Basic to Intermediate Calculus, Basic optimization concepts:
   -	Algebra, Derivatives, Integrals, basic multivariable Calculus, Lagrange Optimization.	
 -	Introductory Probability and Statistics (Stats 1): 
