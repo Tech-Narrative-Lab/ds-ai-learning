@@ -21,13 +21,15 @@ This 5-week course will introduce students to foundational concepts in data scie
 The end-state for students in this course is a clear understanding of the rationale and mechanics of DS practice.
 
 ## Proposed Course Schedule
-|  | Topic | Homeworks
+
+| . | Topic | Homeworks
 |---| ---|---|
 |Module 1|Math Foundations |failure modes
 |Module 2|ETL| Essays
 |Module 3|UL|Pseudo-code
 |Module 4|SL|Pseudo-code
 |Module 5|Advanced Topics| none
+
 
 
 ## Delivery Logistics
